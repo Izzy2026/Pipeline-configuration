@@ -1,9 +1,9 @@
 {
-	"name": "myinsurrancedata",
+	"name": "insurranceAnalytics",
 	"properties": {
 		"activities": [
 			{
-				"name": "myinsurrancedata",
+				"name": "insurrancedata",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
