@@ -10,8 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "Revenues Data.csv",
-				"fileSystem": "raw"
+				"fileSystem": "curated"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
